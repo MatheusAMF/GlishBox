@@ -1,0 +1,134 @@
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox\bin\Debug\GlishBox.exe.config
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox\bin\Debug\GlishBox.exe
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox\bin\Debug\GlishBox.pdb
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.csprojResolveAssemblyReference.cache
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.Form1.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.Properties.Resources.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.csproj.GenerateResource.Cache
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.exe
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.pdb
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAulas.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmBasic.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula1.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula2.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula3.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula4.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula5.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula6.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula6c.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula7.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula7c.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmBasicEx.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmEx.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmEx1.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmEx2.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmEx3.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmEx4.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmEx5.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmEx6.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmEx7.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\bin\Debug\GlishBox.exe.config
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.exe
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.pdb
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\bin\Debug\GlishBox.exe
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\bin\Debug\GlishBox.pdb
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.csprojResolveAssemblyReference.cache
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.Form1.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula1.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula2.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula3.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula4.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula5.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula6.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula6c.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula7.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula7c.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula8.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAulas.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmBasic.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmBasicEx.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmEx.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmEx1.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmEx2.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmEx3.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmEx4.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmEx5.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmEx6.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmEx7.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.Properties.Resources.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.csproj.GenerateResource.Cache
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmEx8.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula13.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula13c.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula14.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula15.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmInter.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula14c.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula16.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula16c.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula17.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula18.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula18c.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula19.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula19c.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula20.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula21.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula21c.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula22.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula22c.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula23.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula23c.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula24.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmTradutor.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAvanc.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmEx20.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmInterEx.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmEx21.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmEx22.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmEx23.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmEx24.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula9.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula10.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula10c.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula11.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula12.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmEx9.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmEx10.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmEx11.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmEx12.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmEx13.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmEx14.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmEx15.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmEx16.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmEx17.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmEx18.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmEx19.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula25.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula26.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula27.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula27c.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula28.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula29.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula29c.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula30.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula31.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula32.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula33.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula33c.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula34.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula35.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula35c.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAvancEx.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmEx35.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula36.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula36c.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmEx25.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmEx252.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmEx26.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\Interop.WMPLib.dll
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.csproj.ResolveComReference.cache
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\bin\Debug\Interop.WMPLib.dll
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmAula1c.resources
+C:\Users\Matheus1\Downloads\GlishBoxTESTES\GlishBox --- ESSE AQUI---\GlishBox --- ESSE AQUI---\GlishBox\obj\Debug\GlishBox.frmEx27.resources

@@ -1,0 +1,1143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F1D6FADB-3174-4191-9785-8A02CA6B184B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GlishBox</RootNamespace>
+    <AssemblyName>GlishBox</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Speech" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAula1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAula1.Designer.cs">
+      <DependentUpon>frmAula1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAula10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAula10.Designer.cs">
+      <DependentUpon>frmAula10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAula10c.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAula10c.Designer.cs">
+      <DependentUpon>frmAula10c.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAula11.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAula11.Designer.cs">
+      <DependentUpon>frmAula11.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAula12.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAula12.Designer.cs">
+      <DependentUpon>frmAula12.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAula13.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAula13.Designer.cs">
+      <DependentUpon>frmAula13.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAula13c.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAula13c.Designer.cs">
+      <DependentUpon>frmAula13c.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAula14.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAula14.Designer.cs">
+      <DependentUpon>frmAula14.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAula14c.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAula14c.Designer.cs">
+      <DependentUpon>frmAula14c.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAula15.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAula15.Designer.cs">
+      <DependentUpon>frmAula15.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAula16.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAula16.Designer.cs">
+      <DependentUpon>frmAula16.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAula16c.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAula16c.Designer.cs">
+      <DependentUpon>frmAula16c.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAula17.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAula17.Designer.cs">
+      <DependentUpon>frmAula17.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAula18.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAula18.Designer.cs">
+      <DependentUpon>frmAula18.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAula18c.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAula18c.Designer.cs">
+      <DependentUpon>frmAula18c.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAula19.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAula19.Designer.cs">
+      <DependentUpon>frmAula19.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAula19c.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAula19c.Designer.cs">
+      <DependentUpon>frmAula19c.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAula1c.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAula1c.Designer.cs">
+      <DependentUpon>frmAula1c.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAula2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAula2.Designer.cs">
+      <DependentUpon>frmAula2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAula20.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAula20.Designer.cs">
+      <DependentUpon>frmAula20.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAula21.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAula21.Designer.cs">
+      <DependentUpon>frmAula21.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAula21c.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAula21c.Designer.cs">
+      <DependentUpon>frmAula21c.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAula22.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAula22.Designer.cs">
+      <DependentUpon>frmAula22.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAula22c.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAula22c.Designer.cs">
+      <DependentUpon>frmAula22c.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAula23.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAula23.Designer.cs">
+      <DependentUpon>frmAula23.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAula23c.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAula23c.Designer.cs">
+      <DependentUpon>frmAula23c.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAula24.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAula24.Designer.cs">
+      <DependentUpon>frmAula24.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAula25.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAula25.Designer.cs">
+      <DependentUpon>frmAula25.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAula26.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAula26.Designer.cs">
+      <DependentUpon>frmAula26.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAula27.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAula27.Designer.cs">
+      <DependentUpon>frmAula27.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAula27c.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAula27c.Designer.cs">
+      <DependentUpon>frmAula27c.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAula28.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAula28.Designer.cs">
+      <DependentUpon>frmAula28.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAula29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAula29.Designer.cs">
+      <DependentUpon>frmAula29.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAula29c.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAula29c.Designer.cs">
+      <DependentUpon>frmAula29c.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAula3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAula3.Designer.cs">
+      <DependentUpon>frmAula3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAula30.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAula30.Designer.cs">
+      <DependentUpon>frmAula30.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAula31.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAula31.Designer.cs">
+      <DependentUpon>frmAula31.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAula32.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAula32.Designer.cs">
+      <DependentUpon>frmAula32.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAula33.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAula33.Designer.cs">
+      <DependentUpon>frmAula33.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAula33c.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAula33c.Designer.cs">
+      <DependentUpon>frmAula33c.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAula34.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAula34.Designer.cs">
+      <DependentUpon>frmAula34.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAula35.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAula35.Designer.cs">
+      <DependentUpon>frmAula35.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAula35c.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAula35c.Designer.cs">
+      <DependentUpon>frmAula35c.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAula36.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAula36.Designer.cs">
+      <DependentUpon>frmAula36.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAula36c.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAula36c.Designer.cs">
+      <DependentUpon>frmAula36c.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAula4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAula4.Designer.cs">
+      <DependentUpon>frmAula4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAula5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAula5.Designer.cs">
+      <DependentUpon>frmAula5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAula6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAula6.Designer.cs">
+      <DependentUpon>frmAula6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAula6c.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAula6c.Designer.cs">
+      <DependentUpon>frmAula6c.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAula7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAula7.Designer.cs">
+      <DependentUpon>frmAula7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAula7c.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAula7c.Designer.cs">
+      <DependentUpon>frmAula7c.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAula8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAula8.Designer.cs">
+      <DependentUpon>frmAula8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAula9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAula9.Designer.cs">
+      <DependentUpon>frmAula9.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAulas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAulas.Designer.cs">
+      <DependentUpon>frmAulas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAvanc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAvanc.Designer.cs">
+      <DependentUpon>frmAvanc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAvancEx.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAvancEx.Designer.cs">
+      <DependentUpon>frmAvancEx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBasic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBasic.Designer.cs">
+      <DependentUpon>frmBasic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBasicEx.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBasicEx.Designer.cs">
+      <DependentUpon>frmBasicEx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEx.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEx.Designer.cs">
+      <DependentUpon>frmEx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEx1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEx1.Designer.cs">
+      <DependentUpon>frmEx1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEx10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEx10.Designer.cs">
+      <DependentUpon>frmEx10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEx11.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEx11.Designer.cs">
+      <DependentUpon>frmEx11.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEx12.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEx12.Designer.cs">
+      <DependentUpon>frmEx12.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEx13.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEx13.Designer.cs">
+      <DependentUpon>frmEx13.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEx14.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEx14.Designer.cs">
+      <DependentUpon>frmEx14.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEx15.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEx15.Designer.cs">
+      <DependentUpon>frmEx15.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEx16.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEx16.Designer.cs">
+      <DependentUpon>frmEx16.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEx17.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEx17.Designer.cs">
+      <DependentUpon>frmEx17.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEx18.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEx18.Designer.cs">
+      <DependentUpon>frmEx18.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEx19.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEx19.Designer.cs">
+      <DependentUpon>frmEx19.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEx2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEx2.Designer.cs">
+      <DependentUpon>frmEx2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEx20.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEx20.Designer.cs">
+      <DependentUpon>frmEx20.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEx21.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEx21.Designer.cs">
+      <DependentUpon>frmEx21.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEx22.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEx22.Designer.cs">
+      <DependentUpon>frmEx22.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEx23.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEx23.Designer.cs">
+      <DependentUpon>frmEx23.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEx24.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEx24.Designer.cs">
+      <DependentUpon>frmEx24.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEx25.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEx25.Designer.cs">
+      <DependentUpon>frmEx25.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEx252.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEx252.Designer.cs">
+      <DependentUpon>frmEx252.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEx26.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEx26.Designer.cs">
+      <DependentUpon>frmEx26.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEx27.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEx27.Designer.cs">
+      <DependentUpon>frmEx27.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEx3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEx3.Designer.cs">
+      <DependentUpon>frmEx3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEx35.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEx35.Designer.cs">
+      <DependentUpon>frmEx35.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEx4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEx4.Designer.cs">
+      <DependentUpon>frmEx4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEx5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEx5.Designer.cs">
+      <DependentUpon>frmEx5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEx6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEx6.Designer.cs">
+      <DependentUpon>frmEx6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEx7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEx7.Designer.cs">
+      <DependentUpon>frmEx7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEx8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEx8.Designer.cs">
+      <DependentUpon>frmEx8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEx9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEx9.Designer.cs">
+      <DependentUpon>frmEx9.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmInter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInter.Designer.cs">
+      <DependentUpon>frmInter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmInterEx.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInterEx.Designer.cs">
+      <DependentUpon>frmInterEx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTradutor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTradutor.Designer.cs">
+      <DependentUpon>frmTradutor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Service References\TranslatorService\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAula1.resx">
+      <DependentUpon>frmAula1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAula10.resx">
+      <DependentUpon>frmAula10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAula10c.resx">
+      <DependentUpon>frmAula10c.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAula11.resx">
+      <DependentUpon>frmAula11.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAula12.resx">
+      <DependentUpon>frmAula12.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAula13.resx">
+      <DependentUpon>frmAula13.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAula13c.resx">
+      <DependentUpon>frmAula13c.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAula14.resx">
+      <DependentUpon>frmAula14.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAula14c.resx">
+      <DependentUpon>frmAula14c.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAula15.resx">
+      <DependentUpon>frmAula15.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAula16.resx">
+      <DependentUpon>frmAula16.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAula16c.resx">
+      <DependentUpon>frmAula16c.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAula17.resx">
+      <DependentUpon>frmAula17.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAula18.resx">
+      <DependentUpon>frmAula18.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAula18c.resx">
+      <DependentUpon>frmAula18c.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAula19.resx">
+      <DependentUpon>frmAula19.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAula19c.resx">
+      <DependentUpon>frmAula19c.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAula1c.resx">
+      <DependentUpon>frmAula1c.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAula2.resx">
+      <DependentUpon>frmAula2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAula20.resx">
+      <DependentUpon>frmAula20.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAula21.resx">
+      <DependentUpon>frmAula21.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAula21c.resx">
+      <DependentUpon>frmAula21c.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAula22.resx">
+      <DependentUpon>frmAula22.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAula22c.resx">
+      <DependentUpon>frmAula22c.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAula23.resx">
+      <DependentUpon>frmAula23.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAula23c.resx">
+      <DependentUpon>frmAula23c.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAula24.resx">
+      <DependentUpon>frmAula24.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAula25.resx">
+      <DependentUpon>frmAula25.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAula26.resx">
+      <DependentUpon>frmAula26.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAula27.resx">
+      <DependentUpon>frmAula27.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAula27c.resx">
+      <DependentUpon>frmAula27c.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAula28.resx">
+      <DependentUpon>frmAula28.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAula29.resx">
+      <DependentUpon>frmAula29.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAula29c.resx">
+      <DependentUpon>frmAula29c.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAula3.resx">
+      <DependentUpon>frmAula3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAula30.resx">
+      <DependentUpon>frmAula30.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAula31.resx">
+      <DependentUpon>frmAula31.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAula32.resx">
+      <DependentUpon>frmAula32.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAula33.resx">
+      <DependentUpon>frmAula33.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAula33c.resx">
+      <DependentUpon>frmAula33c.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAula34.resx">
+      <DependentUpon>frmAula34.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAula35.resx">
+      <DependentUpon>frmAula35.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAula35c.resx">
+      <DependentUpon>frmAula35c.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAula36.resx">
+      <DependentUpon>frmAula36.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAula36c.resx">
+      <DependentUpon>frmAula36c.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAula4.resx">
+      <DependentUpon>frmAula4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAula5.resx">
+      <DependentUpon>frmAula5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAula6.resx">
+      <DependentUpon>frmAula6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAula6c.resx">
+      <DependentUpon>frmAula6c.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAula7.resx">
+      <DependentUpon>frmAula7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAula7c.resx">
+      <DependentUpon>frmAula7c.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAula8.resx">
+      <DependentUpon>frmAula8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAula9.resx">
+      <DependentUpon>frmAula9.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAulas.resx">
+      <DependentUpon>frmAulas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAvanc.resx">
+      <DependentUpon>frmAvanc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAvancEx.resx">
+      <DependentUpon>frmAvancEx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBasic.resx">
+      <DependentUpon>frmBasic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBasicEx.resx">
+      <DependentUpon>frmBasicEx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEx.resx">
+      <DependentUpon>frmEx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEx1.resx">
+      <DependentUpon>frmEx1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEx10.resx">
+      <DependentUpon>frmEx10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEx11.resx">
+      <DependentUpon>frmEx11.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEx12.resx">
+      <DependentUpon>frmEx12.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEx13.resx">
+      <DependentUpon>frmEx13.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEx14.resx">
+      <DependentUpon>frmEx14.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEx15.resx">
+      <DependentUpon>frmEx15.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEx16.resx">
+      <DependentUpon>frmEx16.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEx17.resx">
+      <DependentUpon>frmEx17.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEx18.resx">
+      <DependentUpon>frmEx18.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEx19.resx">
+      <DependentUpon>frmEx19.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEx2.resx">
+      <DependentUpon>frmEx2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEx20.resx">
+      <DependentUpon>frmEx20.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEx21.resx">
+      <DependentUpon>frmEx21.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEx22.resx">
+      <DependentUpon>frmEx22.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEx23.resx">
+      <DependentUpon>frmEx23.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEx24.resx">
+      <DependentUpon>frmEx24.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEx25.resx">
+      <DependentUpon>frmEx25.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEx252.resx">
+      <DependentUpon>frmEx252.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEx26.resx">
+      <DependentUpon>frmEx26.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEx27.resx">
+      <DependentUpon>frmEx27.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEx3.resx">
+      <DependentUpon>frmEx3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEx35.resx">
+      <DependentUpon>frmEx35.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEx4.resx">
+      <DependentUpon>frmEx4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEx5.resx">
+      <DependentUpon>frmEx5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEx6.resx">
+      <DependentUpon>frmEx6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEx7.resx">
+      <DependentUpon>frmEx7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEx8.resx">
+      <DependentUpon>frmEx8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEx9.resx">
+      <DependentUpon>frmEx9.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInter.resx">
+      <DependentUpon>frmInter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInterEx.resx">
+      <DependentUpon>frmInterEx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTradutor.resx">
+      <DependentUpon>frmTradutor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Service References\TranslatorService\GlishBox.TranslatorService.GetTranslationsResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\TranslatorService\GlishBox.TranslatorService.TranslateArray2Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\TranslatorService\GlishBox.TranslatorService.TranslateArrayResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\TranslatorService\soap.wsdl" />
+    <None Include="Service References\TranslatorService\soap.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\TranslatorService\soap1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\TranslatorService\soap2.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\TranslatorService\soap3.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\TranslatorService\SoapService.wsdl" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WallGlishBox.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logopng.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\giftest.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logogif.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logogif1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lolfinale.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Aulasoff.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\classeoff.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ExerciciosOff.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ExerciciosOn.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\glishgameon.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\glishgameoff.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\y.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\butonback2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\butonback1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WallGlishBox2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WallGlishBox %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WallGlishBox3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WallGlishLeve.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BtnAnteriorSelected.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AnteriorSelected.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Service References\TranslatorService\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\TranslatorService\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\TranslatorService\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\TranslatorService\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tabela.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tradutorPretoBRANCO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tradutorCOLORED.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\listen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imagem.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apple1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ball.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\car.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dice.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\egg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\frog.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\girl.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\horse.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icecream.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jelly.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\knife.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\leaf.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\moon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nose.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\orange.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\princess.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\queen.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rat.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sun.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tower.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\umbrella.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vampire.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wand.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\xray.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yoyo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zebra.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
